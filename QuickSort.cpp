@@ -40,5 +40,6 @@ int main() {
 
     for (auto n : v)
         cout << n << " ";
+        
     return 0;
 }
